@@ -283,6 +283,14 @@ form {
   margin-left: 10px;
 }
 
+.zip_download_link:hover {
+  background: url(../images/sprite_download.png) no-repeat top left;
+}
+
+.tar_download_link:hover {
+  background: url(../images/sprite_download.png) no-repeat top right;
+}
+
 #main_wrap {
   min-height: 500px;
   background: #f2f2f2;
